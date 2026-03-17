@@ -3,11 +3,9 @@ import hashlib
 import logging
 from datetime import datetime
 
-# =============================================================================
+# 
 # PYTHON ETL PIPELINE SNIPPET
-# Demonstrates: Data Transformation, Hash Generation, and ETL Orchestration
-# =============================================================================
-
+# 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
