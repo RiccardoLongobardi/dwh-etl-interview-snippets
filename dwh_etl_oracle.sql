@@ -1,7 +1,6 @@
--- =============================================================================
--- ORACLE DWH ETL SNIPPETS (ANONYMIZED FOR INTERVIEW)
--- Includes: Partitioning, Indexing, SCD2, PL/SQL Package, and Performance Hints
--- =============================================================================
+--
+-- ORACLE DWH ETL SNIPPETS
+--
 
 -- 1. DDL: DIMENSION TABLE (SCD2 TYPE 2)
 CREATE TABLE DWH_STG.DIM_LOAN_ATTR (
