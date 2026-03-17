@@ -4,7 +4,7 @@ import logging
 from datetime import datetime
 
 # =============================================================================
-# PYTHON ETL PIPELINE SNIPPET (ANONYMIZED FOR INTERVIEW)
+# PYTHON ETL PIPELINE SNIPPET
 # Demonstrates: Data Transformation, Hash Generation, and ETL Orchestration
 # =============================================================================
 
